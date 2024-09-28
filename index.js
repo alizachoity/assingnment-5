@@ -64,6 +64,3 @@ historyTabButton.addEventListener('click', () => {
     });
     historySection.classList.remove('hidden');
 });
-
-
-
